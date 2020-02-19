@@ -18,4 +18,4 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Apellidos, Nombre - [Título]()
 
-* López Molina, Ángel - [Sleepbox UI] (https://github.com/almAngel/sleepbox-ui) (Ionic)
+* López Molina, Ángel - [Sleepbox UI](https://github.com/almAngel/sleepbox-ui) (Ionic)
