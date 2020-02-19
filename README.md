@@ -16,7 +16,5 @@ El enlace va directamente al repositorio del proyecto (no a la página de GitHub
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Apellidos, Nombre - [Título]()
-
 * Aranda Navarro, Juan Luis - [InfoLeague](https://github.com/JuanLuisAranda/InfoLeague) (Ionic)
 * López Molina, Ángel - [Sleepbox UI](https://github.com/almAngel/sleepbox-ui) (Ionic)
