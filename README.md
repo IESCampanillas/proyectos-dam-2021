@@ -19,3 +19,4 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Aranda Navarro, Juan Luis - [InfoLeague](https://github.com/JuanLuisAranda/InfoLeague) (Ionic)
 * López Molina, Ángel - [Sleepbox UI](https://github.com/almAngel/sleepbox-ui) (Ionic)
 * Sevilla Ruiz, Borja - [GameApp](https://github.com/bsevrui/Proyecto-Ionic-5) (Ionic)
+* Aragón Rodríguez, Rafael - [BoozeR](https://github.com/rafaelaragon/boozeR) (Android nativo)
