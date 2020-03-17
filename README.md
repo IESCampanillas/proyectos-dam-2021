@@ -16,7 +16,7 @@ El enlace va directamente al repositorio del proyecto (no a la página de GitHub
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Aragón Rodríguez, Rafael - [BoozeR](https://github.com/rafaelaragon/boozeR) (Android nativo)https://github.com/AlvaroCamposVega/gymit
+* Aragón Rodríguez, Rafael - [BoozeR](https://github.com/rafaelaragon/boozeR) (Android nativo)
 * Aranda Navarro, Juan Luis - [InfoLeague](https://github.com/JuanLuisAranda/InfoLeague) (Ionic)
 * Campos Vega, Álvaro - [GymIt](https://github.com/AlvaroCamposVega/gymit) (Android nativo)
 * García Molina, Jorge - [ARAssistant](https://github.com/jorgegarcia1996/ARAssistant) (Android nativo)
