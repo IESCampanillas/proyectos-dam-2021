@@ -23,6 +23,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Del Pino Heredia, Laura y Haller Ríos, Lino - [Odyssey](https://github.com/LinoHallerRios/Odyssey) (Android Nativo)
 * García Serrano, Alejandro - [Maipets](https://github.com/Alegarse/MaipetsF) (Android nativo)
 * Gómez Martin, Jose María y Jiménez Quintana, Jose Daniel - [Wallney](https://github.com/josemariagomez/wallney) (Ionic)
+* Jimenez Montilla, Adrian - [Nombre Provisional](https://github.com/AdrianJimenezMontilla/NombreProvisional) (Ionic)
 * López Molina, Ángel - [Sleepbox UI](https://github.com/almAngel/sleepbox-ui) (Ionic)
 * Pacheco Matas, Rubén - [Cian](https://github.com/rubenpachecomatas/Cian) (Ionic)
 * Pérez Molina, Iván - [ProCampo](https://github.com/ivanperezmolina/procampo) (Android nativo)
