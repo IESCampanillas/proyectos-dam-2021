@@ -21,7 +21,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Campos Vega, Álvaro - [VGym](https://github.com/AlvaroCamposVega/VGym) (Android nativo)
 * García Molina, Jorge - [ARAssistant](https://github.com/jorgegarcia1996/ARAssistant) (Android nativo)
 * Del Pino Heredia, Laura y Haller Ríos, Lino - [Odyssey](https://github.com/LinoHallerRios/Odyssey) (Android Nativo)
-* García Serrano, Alejandro - [Maipets](https://github.com/Alegarse/MaipetsF) (Android nativo)
+* García Serrano, Alejandro - [Maipets](https://github.com/Alegarse/MaipetsFCT) (Android nativo)
 * Gómez Martin, Jose María y Jiménez Quintana, Jose Daniel - [Wallney](https://github.com/josemariagomez/wallney) (Ionic)
 * Jimenez Montilla, Adrian - [Nombre Provisional](https://github.com/AdrianJimenezMontilla/NombreProvisional) (Ionic)
 * López Molina, Ángel - [Sleepbox UI](https://github.com/almAngel/sleepbox-ui) (Ionic)
