@@ -25,6 +25,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gómez Martin, Jose María y Jiménez Quintana, Jose Daniel - [Wallney](https://github.com/josemariagomez/wallney) (Ionic)
 * Jimenez Montilla, Adrian - [Nombre Provisional](https://github.com/AdrianJimenezMontilla/NombreProvisional) (Ionic)
 * López Molina, Ángel - [Sleepbox UI](https://github.com/almAngel/sleepbox-ui) (Ionic)
+* Matabuena Berdugo, Rocío - [Don't rush](https://github.com/rociomatabuenaberdugo/DontRushProject2020) (Android nativo)
 * Pacheco Matas, Rubén - [Cian](https://github.com/rubenpachecomatas/Cian) (Ionic)
 * Pérez Molina, Iván - [ProCampo](https://github.com/ivanperezmolina/procampo) (Android nativo)
 * Santos Bernal, Clemente - [EFUP](https://github.com/damcsb/EFUP) (Android nativo)
