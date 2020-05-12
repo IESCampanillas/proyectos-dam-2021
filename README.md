@@ -29,7 +29,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Pacheco Matas, Rubén - [Cian](https://github.com/rubenpachecomatas/Cian) (Ionic)
 * Pérez Molina, Iván - [ProCampo](https://github.com/ivanperezmolina/procampo) (Android nativo)
 * Santos Bernal, Clemente - [EFUP](https://github.com/damcsb/EFUP) (Android nativo)
-* Santos Martínez, Rosa Purificación - [MagicStore] (https://github.com/gaitaypandereta/magicStore) (Android nativo)
+* Santos Martínez, Rosa Purificación - [MagicStore](https://github.com/gaitaypandereta/magicStore) (Android nativo)
 * Sevilla Ruiz, Borja - [GameApp](https://github.com/bsevrui/Proyecto-Ionic-5) (Ionic)
 
 
