@@ -10,7 +10,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 A continuación se listan los enlaces a los repositorios de GitHub donde están los proyectos.
 
-Aparecen los **apellidos** y **nombre** del alumno por orden alfabético junto con el **título del proyecto**. También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**.
+Aparecen los **apellidos** y **nombre** del alumno por **orden alfabético** junto con el **título del proyecto**. También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**.
 
 El enlace va directamente al repositorio del proyecto (no a la página de GitHub del usuario).
 
