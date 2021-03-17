@@ -24,6 +24,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gutiérrez Pardo, Miguel Valerio - [WhereIWatch](https://github.com/BeTheVal/WhereIWatch) (Android nativo)
 * Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
+* Cano Santana, Miguel - [ChatPools](https://github.com/miguelcanosantana/ChatPools) (Ionic)
 
 
 
