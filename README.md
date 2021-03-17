@@ -22,6 +22,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Gallardo Luque, Víctor  - [I-Train](https://github.com/VictorGallardo/I-Train) (Ionic)
 * Gutiérrez Pardo, Miguel Valerio - WhereIWatch (Android nativo)
+* Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
 
 
 
