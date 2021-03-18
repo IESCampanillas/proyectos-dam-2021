@@ -26,6 +26,6 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
 * Cano Santana, Miguel - [ChatPools](https://github.com/miguelcanosantana/ChatPools) (Ionic)
 * Molina Blanes, Pablo Luis - [RadioPlatform](https://github.com/miguelcanosantana/ChatPools) (Ionic)
- (
+
 
 
