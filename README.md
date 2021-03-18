@@ -17,9 +17,8 @@ El enlace va directamente al repositorio del proyecto (no a la página de GitHub
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Apellidos, Nombre - [Título]() (Android nativo / Ionic)
-
+* Martínez Alaminos, Diego - [SkillYouNeed](https://github.com/diegomartinezalaminos/SkillYouNeed) (Android nativo)
 * Pacheco Torrecilla, Ismael - [Macros Counter](https://github.com/ismaelpacheco13/macros-counter-ionic-final) (Ionic)
-
 * Gallardo Luque, Víctor  - [I-Train](https://github.com/VictorGallardo/I-Train) (Ionic)
 * Gutiérrez Pardo, Miguel Valerio - [WhereIWatch](https://github.com/BeTheVal/WhereIWatch) (Android nativo)
 * Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
