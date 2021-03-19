@@ -21,6 +21,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Pacheco Torrecilla, Ismael - [Macros Counter](https://github.com/ismaelpacheco13/macros-counter-ionic-final) (Ionic)
 * Gallardo Luque, Víctor  - [I-Train](https://github.com/VictorGallardo/I-Train) (Ionic)
 * Gutiérrez Pardo, Miguel Valerio - [WhereIWatch](https://github.com/BeTheVal/WhereIWatch) (Android nativo)
+* López Ramos, Rodrigo - [Organiceitor](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor) (Android nativo)
 * Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
 * Cano Santana, Miguel - [ChatPools](https://github.com/miguelcanosantana/ChatPools) (Ionic)
