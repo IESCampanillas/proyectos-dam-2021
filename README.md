@@ -8,11 +8,12 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 ## Índice a los proyectos de cada alumno
 
-A continuación se listan los enlaces a los repositorios de GitHub donde están los proyectos.
+A continuación se listan los enlaces a los repositorios de GitHub donde están los proyectos. 
 
-Aparecen los **apellidos** y **nombre** del alumno por **orden alfabético** junto con el **título del proyecto**. También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**.
+Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido del **título del proyecto** y un enlace directo al repositorio (no a la página de Github del alumno). También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**. Recuerda que, como máximo, podrá haber **6** proyectos de Ionic y **6** proyectos de Android; en otro caso, se desempatará por la fecha del último commit. Actualmente hay:
 
-El enlace va directamente al repositorio del proyecto (no a la página de GitHub del usuario).
+- **0** Proyectos Ionic disponibles.
+- **2** Proyectos Android disponibles.
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
