@@ -27,6 +27,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Pacheco Torrecilla, Ismael - [Macros Counter](https://github.com/ismaelpacheco13/macros-counter-ionic-final) (Ionic)
 * Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
+* Santos Bernal, Clemente - [HomeLive](https://github.com/damcsb/HomeLive) (Android nativo)
 
 
 
