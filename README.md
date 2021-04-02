@@ -20,7 +20,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Cano Santana, Miguel - [ChatPools](https://github.com/miguelcanosantana/ChatPools) (Ionic)
 * Gallardo Luque, Víctor  - [I-Train](https://github.com/VictorGallardo/I-Train) (Ionic)
 * Gutiérrez Pardo, Miguel Valerio - [WhereIWatch](https://github.com/BeTheVal/WhereIWatch) (Android nativo)
-* Lago Muñoz, Luca - [CA Map](https://github.com/ROMthesheep/CC-Map) (Android nativo)
+* Lago Muñoz, Luca - [CA Map](https://github.com/ROMthesheep/CA-Map) (Android nativo)
 * López Ramos, Rodrigo - [Organiceitor](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor) (Android nativo)
 * Martínez Alaminos, Diego - [SkillYouNeed](https://github.com/diegomartinezalaminos/SkillYouNeed) (Android nativo)
 * Molina Blanes, Pablo Luis - [RadioPlatform](https://github.com/PabloLuisMolinaBlanes/RadioPlatform) (Ionic)
