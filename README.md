@@ -13,7 +13,7 @@ A continuación se listan los enlaces a los repositorios de GitHub donde están 
 Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido del **título del proyecto** y un enlace directo al repositorio (no a la página de Github del alumno). También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**. Recuerda que, como máximo, podrá haber **6** proyectos de Ionic y **6** proyectos de Android; en otro caso, se desempatará por la fecha del último commit. Actualmente hay:
 
 - **0** Proyectos Ionic disponibles.
-- **1** Proyectos Android disponibles.
+- **0** Proyectos Android disponibles.
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
@@ -22,6 +22,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gutiérrez Pardo, Miguel Valerio - [WhereIWatch](https://github.com/BeTheVal/WhereIWatch) (Android nativo)
 * Lago Muñoz, Luca - [CA Map](https://github.com/ROMthesheep/CA-Map) (Android nativo)
 * López Ramos, Rodrigo - [Organiceitor](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor) (Android nativo)
+* López Sánchez, Javier - [WorkOutTracker](https://github.com/javier-l0pez/WorkOutTracker) (Android Nativo)
 * Martínez Alaminos, Diego - [SkillYouNeed](https://github.com/diegomartinezalaminos/SkillYouNeed) (Android nativo)
 * Molina Blanes, Pablo Luis - [RadioPlatform](https://github.com/PabloLuisMolinaBlanes/RadioPlatform) (Ionic)
 * Pacheco Torrecilla, Ismael - [Macros Counter](https://github.com/ismaelpacheco13/macros-counter-ionic-final) (Ionic)
