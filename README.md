@@ -44,7 +44,7 @@ El día en que tendrán lugar las exposiciones será el **lunes 21 de junio de 2
 * 10:45h Molina Blanes, Pablo Luis
 * 11:00h Pacheco Torrecilla, Ismael
 
-🥪 D E S C A N S O ☕
+ 🥪 D E S C A N S O ☕
 
 * 11:45h Santiago Bernal, Clemente
 * 12:00h Santiago Yuste, Rubén
