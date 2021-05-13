@@ -30,7 +30,31 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
 * Santos Bernal, Clemente - [HomeLive](https://github.com/damcsb/HomeLive) (Android nativo)
 
+## ⏰ Cuadrante horario de las exposiciones
 
+El día en que tendrán lugar las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio.
 
+* 09:00h Cano Santana, Miguel
+* 09:15h Gallardo Luque, Víctor
+* 09:30h Gutiérrez Pardo, Miguel Valerio
+* 09:45h Lago Muñoz, Luca
+* 10:00h López Ramos, Rodrigo
+* 10:15h López Sánchez, Javier
+* 10:30h Martínez Alaminos, Diego
+* 10:45h Molina Blanes, Pablo Luis
+* 11:00h Pacheco Torrecilla, Ismael
 
+🥪 D E S C A N S O ☕
 
+* 11:45h Santiago Bernal, Clemente
+* 12:00h Santiago Yuste, Rubén
+* 12:15h Torres de Oses, Ivan
+* 12:30h Toscano Díaz, Sergio
+
+## :school: Lugar de las exposiciones
+
+Las presentaciones tendrán lugar en el **aula 8 de la incubadora** sita en C/ Frederick Terman,3. 29590, PTA.
+
+<hr>
+
+Si te ha resultado útil este repositorio, por favor dale una :star: ¡Gracias!
