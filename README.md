@@ -32,7 +32,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-El día en que tendrán lugar las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio.
+El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio.
 
 * 09:00h Cano Santana, Miguel
 * 09:15h Gallardo Luque, Víctor
