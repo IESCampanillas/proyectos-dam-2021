@@ -31,6 +31,9 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Santiago Yuste, Rubén - [PPLI NEWS](https://github.com/RSY96/PPLI-NEWS) (Android Nativo)
 * Santos Bernal, Clemente - [HomeLive](https://github.com/damcsb/HomeLive) (Android nativo)
 
+## 🗓️ Calendario fin de curso
+* [Acceso al calendario fin de curso](https://docs.google.com/document/d/1YUECtVGsCXCObxw-qq7QhTZ2DDvsi0_Wk2amDv5ReCw/edit)
+
 ## ⏰ Cuadrante horario de las exposiciones
 
 El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
