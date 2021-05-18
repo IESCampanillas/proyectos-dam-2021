@@ -26,10 +26,11 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Martínez Alaminos, Diego - [SkillYouNeed](https://github.com/diegomartinezalaminos/SkillYouNeed) (Android nativo)
 * Molina Blanes, Pablo Luis - [RadioPlatform](https://github.com/PabloLuisMolinaBlanes/RadioPlatform) (Ionic)
 * Pacheco Torrecilla, Ismael - [Macros Counter](https://github.com/ismaelpacheco13/macros-counter-ionic-final) (Ionic)
+* Santos Bernal, Clemente - [HomeLive](https://github.com/damcsb/HomeLive) (Android nativo)
+* Santiago Yuste, Rubén - [PPLI NEWS](https://github.com/RSY96/PPLI-NEWS) (Android Nativo)
 * Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
-* Santiago Yuste, Rubén - [PPLI NEWS](https://github.com/RSY96/PPLI-NEWS) (Android Nativo)
-* Santos Bernal, Clemente - [HomeLive](https://github.com/damcsb/HomeLive) (Android nativo)
+
 
 ## 📝 Indicaciones anteproyectos
 * [Indicaciones a la primera entrega](https://docs.google.com/document/d/12efLNqLAXuKp9zxm_fMtWnbXIhDRQ0tWEHac8LWHk1Q/edit?usp=sharing)
