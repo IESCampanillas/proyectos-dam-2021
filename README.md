@@ -65,7 +65,7 @@ El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración
 
 ## :school: Lugar de las exposiciones
 
-Las presentaciones tendrán lugar en el **aula 8 de la incubadora** sita en C/ Frederick Terman,3. 29590, PTA.
+Las presentaciones tendrán lugar en [**The Green Lemon**](https://goo.gl/maps/Q5noq78cF3u7mwQZ9) sito en C/ Severo Ochoa, 57. 29590, PTA.
 
 <hr>
 
