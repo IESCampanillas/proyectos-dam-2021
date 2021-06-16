@@ -69,7 +69,7 @@ Las presentaciones tendrán lugar en [**The Green Lemon**](https://goo.gl/maps/Q
 
 Mapa ubicación             | Exterior The Green Lemon  | Interior The Green Lemon
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_mapa_ubicacion.png" width="300" />  |  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_edificio.png" width="300" />  |  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_interior.png" width="300" />|
+<a href="https://goo.gl/maps/Q5noq78cF3u7mwQZ9" target="_blank"><img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_mapa_ubicacion.png" width="300" /></a>  |  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_edificio.png" width="300" />  |  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_interior.png" width="300" />|
 
 
 
