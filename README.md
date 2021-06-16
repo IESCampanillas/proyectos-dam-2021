@@ -67,6 +67,13 @@ El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración
 
 Las presentaciones tendrán lugar en [**The Green Lemon**](https://goo.gl/maps/Q5noq78cF3u7mwQZ9) sito en C/ Severo Ochoa, 57. 29590, PTA.
 
+Mapa ubicación             |  The Green Lemon
+:-------------------------:|:-------------------------:
+<img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_ubicacion.png" width="300" />  |  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_edificio.png" width="300" />
+
+
+
+
 <hr>
 
 Si te ha resultado útil este repositorio, por favor dale una :star: ¡Gracias!
