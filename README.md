@@ -65,7 +65,7 @@ El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración
 
 ## :school: Lugar de las exposiciones
 
-Las presentaciones tendrán lugar en el edificio de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
+Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
 
 Mapa ubicación             | 
 :-------------------------:|
