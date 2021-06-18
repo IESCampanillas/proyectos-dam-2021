@@ -69,7 +69,7 @@ Las presentaciones tendrán lugar en el edificio de la [**Incubadora**](https://
 
 Mapa ubicación             | 
 :-------------------------:|
-<a href="https://goo.gl/maps/Q5noq78cF3u7mwQZ9" target="_blank"><img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/TGL_mapa_ubicacion.png" width="300" /></a> 
+<a href="https://goo.gl/maps/Q5noq78cF3u7mwQZ9" target="_blank"><img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="300" /></a> 
 
 
 
