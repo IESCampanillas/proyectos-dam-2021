@@ -46,7 +46,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
-* 09:00h Cano Santana, Miguel
+* ~~09:00h Cano Santana, Miguel~~
 * 09:15h Gallardo Luque, Víctor
 * 09:30h Gutiérrez Pardo, Miguel Valerio
 * 09:45h Lago Muñoz, Luca
