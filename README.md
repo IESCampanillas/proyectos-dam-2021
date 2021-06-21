@@ -54,7 +54,7 @@ El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración
 * ~~10:15h López Sánchez, Javier~~
 * ~~10:30h Martínez Alaminos, Diego~~
 * ~~10:45h Molina Blanes, Pablo Luis~~
-* 11:00h Pacheco Torrecilla, Ismael
+* ~~11:00h Pacheco Torrecilla, Ismael~~
 
  🥪 D E S C A N S O ☕
 
