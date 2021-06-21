@@ -61,7 +61,7 @@ El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración
 * ~~11:45h Santiago Bernal, Clemente~~
 * 12:00h Santiago Yuste, Rubén
 * ~~12:15h Torres de Oses, Ivan~~
-* 12:30h Toscano Díaz, Sergio
+* ~~12:30h Toscano Díaz, Sergio~~
 
 ## :school: Lugar de las exposiciones
 
