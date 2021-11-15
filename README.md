@@ -30,10 +30,10 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Santiago Yuste, Rubén - [PPLI NEWS](https://github.com/RSY96/PPLI-NEWS) (Android Nativo)
 * Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
 * Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
-* Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
 ----------------------------------
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
+* Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
 
 ## 📝 Indicaciones anteproyectos
